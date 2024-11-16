@@ -1,16 +1,19 @@
-### Hi there 👋
+MRT MEDIA GMBH - URL SCANNER FOR ANY DOMAIN
 
-<!--
-**MRT-Media-GmbH/MRT-Media-GmbH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Domain URL Scanner
 
-Here are some ideas to get you started:
+Ein Web-basiertes Tool zum Scannen und Auflisten aller verfügbaren URLs einer Domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Funktionen
+
+- Scannt eine eingegebene Domain nach allen verfügbaren URLs
+- Filtert domainspezifische Links
+- Benutzerfreundliche Weboberfläche
+- Echtzeit-Ergebnisanzeige
+
+## Installation
+
+1. Repository klonen:
+```bash
+git clone https://github.com/MRT-Media-GmbH/domain-url-scanner.git
+
